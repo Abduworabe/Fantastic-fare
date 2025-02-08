@@ -22,5 +22,5 @@ A personal portfolio website showcasing Abdulkerim's skills and projects, with a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Fantastic-fare.git
+   git clone https://github.com/Abduworabe/Fantastic-fare.git
 
