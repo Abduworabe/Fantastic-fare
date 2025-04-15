@@ -1,6 +1,4 @@
-# Fantastic-fare
-
-# Fantastic-fare
+Simple Personal  Three.js Portfolio
 
 A personal portfolio website showcasing Abdulkerim's skills and projects, with a focus on 3D experiences using Three.js. The site includes animated boxes, a 3D model viewer, custom cursor, and particle effects. Built with HTML, CSS, and JavaScript.
 
